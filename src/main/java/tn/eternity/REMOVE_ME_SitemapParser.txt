@@ -1,2 +1,0 @@
-SitemapParser.java has been removed. All sitemap parsing logic is now centralized in PdfGenerator.java.
-
