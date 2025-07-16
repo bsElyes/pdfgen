@@ -1,0 +1,2 @@
+PdfValidator.java has been removed. All PDF validation logic is now centralized in PdfGenerator.java.
+

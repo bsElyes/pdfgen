@@ -1,0 +1,2 @@
+SidebarParser.java has been removed. Logic is now centralized in PdfGenerator.java.
+

@@ -1,0 +1,2 @@
+PdfMetadata.java has been removed. All metadata enhancement logic is now centralized in PdfGenerator.java.
+
